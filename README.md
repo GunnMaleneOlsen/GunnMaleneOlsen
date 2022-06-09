@@ -9,7 +9,7 @@
 - Node.js
 - Git
 
-## Reach me at :point_right:
+## Reach me at :point_down:
 - [linkdIn](https://www.linkedin.com/in/gunn-malene-plaza-olsen-00b197198/)
 - gm.plazaolsen@gmail.com
 <!--
