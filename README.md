@@ -1,9 +1,11 @@
 ### Howdy! 👋 :cowboy_hat_face:
 ### My name is Gunn Malene
 
-## I am a graduating frontend-development student at Noroff; graduating with a Higher Professional Degree.
+## I am a software developer with experience in creating web applications. I have a Higher Professional Degree in frontend-development from Noroff.
 
 ## Tech im most comfortable with :nerd_face:
+- TypeScript
+- Angular
 - React.js
 - Strapi.io
 - Node.js
